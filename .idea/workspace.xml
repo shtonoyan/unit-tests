@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67380011-ea50-4d28-9c17-70e319a296bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aXlttCngRDu1VKwchTZolcI51c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/calculator-1.0.jar!/" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.SinFunctionTest">
+    <configuration name="CosFunctionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.cdp.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.cdp.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.cdp.junit.CosFunctionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CosFunctionTest.cosFunction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.cdp.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.cdp.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.cdp.junit.CosFunctionTest" />
+      <option name="METHOD_NAME" value="cosFunction(double,double)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsNegativeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.cdp.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.cdp.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.cdp.junit.IsNegativeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsPositiveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.cdp.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.cdp.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.cdp.junit.IsPositiveTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinFunctionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.cdp.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.cdp.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.cdp.junit.SinFunctionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SinFunctionTest" />
+        <item itemvalue="JUnit.CosFunctionTest" />
+        <item itemvalue="JUnit.IsPositiveTest" />
+        <item itemvalue="JUnit.IsNegativeTest" />
+        <item itemvalue="JUnit.CosFunctionTest.cosFunction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67380011-ea50-4d28-9c17-70e319a296bf" name="Default Changelist" comment="" />
+      <created>1586890036990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586890036990</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="473" y="162" key="FileChooserDialogImpl" timestamp="1586890262244">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="473" y="162" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1586890262244" />
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom" timestamp="1586893703773">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586893703773" />
+    <state width="1493" height="206" key="GridCell.Tab.0.center" timestamp="1586893703773">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586893703773" />
+    <state width="1493" height="206" key="GridCell.Tab.0.left" timestamp="1586893703773">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586893703773" />
+    <state width="1493" height="206" key="GridCell.Tab.0.right" timestamp="1586893703773">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586893703773" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1586892671870">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1586892671870" />
+    <state x="477" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1586890042791">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="477" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1586890042791" />
+    <state x="474" y="173" width="588" height="488" key="find.popup" timestamp="1586890812068">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="474" y="173" width="588" height="488" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1586890812068" />
+    <state x="505" y="188" width="672" height="678" key="search.everywhere.popup" timestamp="1586890840217">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="505" y="188" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1586890840217" />
+  </component>
+</project>

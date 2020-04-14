@@ -1,0 +1,32 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Home Task" parallel="true" thread-count="3">
+    <test name="Simple Operations">
+        <groups>
+            <run>
+                <include name="simple.operations"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.epam.cdp.testng.simple_arithmetic_operations.DivisionCalcTest"/>
+            <class name="com.epam.cdp.testng.simple_arithmetic_operations.MultiplicationCalcTest"/>
+            <class name="com.epam.cdp.testng.simple_arithmetic_operations.SubtractionCalcTest"/>
+            <class name="com.epam.cdp.testng.simple_arithmetic_operations.SumCalcTest"/>
+        </classes>
+    </test>
+
+    <test name="Trigonometric Functions">
+        <classes>
+            <class name="com.epam.cdp.testng.trigonometric_functions.SinCalcTest"/>
+            <class name="com.epam.cdp.testng.trigonometric_functions.CosCalcTest"/>
+            <class name="com.epam.cdp.testng.trigonometric_functions.TgCalcTest"/>
+        </classes>
+    </test>
+
+    <test name="Exponential Functions">
+        <classes>
+            <class name="com.epam.cdp.testng.exponential_functions.PowerCalcTest"/>
+            <class name="com.epam.cdp.testng.exponential_functions.squareRootCalcTest"/>
+        </classes>
+    </test>
+
+</suite>
